@@ -1,5 +1,5 @@
 body {
-    background-color: lightcyan;
+    background-color: #0099ff;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
   .line1 
   {
     position: relative;
-    right: 15px; /*this is something I don't understand but apparently is required*/
+    right: 14px; /*this is something I don't understand but apparently is required*/
     top: -160px;
     height: 1px;
     width: 200px;
@@ -28,10 +28,10 @@ body {
     .line2 
   {
     position: relative;
-    left: 166px; /*this is something I don't understand but apparently is required*/
-    top: -161px;
+    left: 167px; /*this is something I don't understand but apparently is required*/
+    top: -160px;
     height: 1px;
-    width: 200px;
+    width: 197px;
     background-color: #000;
     transform: rotate(-25deg); /*again, this is easy since its a square. In rectangle you'll have to find a tangent*/
     }
