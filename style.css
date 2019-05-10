@@ -9,7 +9,7 @@ body {
     justify-content: flex-end;
     height: 200px;
     width: 350px;
-    border: 5px solid white;
+    border: 5px solid lavenderblush;
     background-color:lavenderblush;
     cursor:pointer;
   }
@@ -35,20 +35,4 @@ body {
     background-color: #000;
     transform: rotate(-25deg); /*again, this is easy since its a square. In rectangle you'll have to find a tangent*/
     }
-
-    /* .pic {
-      height: 200px;
-    width: 350px;
-    
-    
-    } */
-
-    /* .container
-
-
-    #gallery { height: 100%; width: 100%; position: relative; }
-
-#gallery img {
-  /* CSS Hack will make it width 100% and height 100% */
-
 
